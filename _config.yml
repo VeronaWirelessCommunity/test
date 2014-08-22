@@ -3,8 +3,8 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://ilario.github.io/test/'
-  relativeLinks: 'http://ilario.github.io/test/links.jsonp'
+  siteurl: 'http://veronawirelesscommunuty.github.io/test/'
+  relativeLinks: 'http://veronawirelesscommunuty.github.io/test/links.jsonp'
   media: 'media'
   metadata:
     _posts:
